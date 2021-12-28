@@ -1,12 +1,12 @@
-/* Rico López Tamara Illian 127063
+/* Rico LÃ³pez Tamara Illian 127063
 Practica 4
-Programa que imprime todos los números de tres cifras que al elevar al cubo es el mismo número de 3 cifras*/
+Programa que imprime todos los nÃºmeros de tres cifras que al elevar al cubo es el mismo nÃºmero de 3 cifras*/
 
 #include<stdio.h>
 
 int main()
 {
-    //Declaración de variables
+    //DeclaraciÃ³n de variables
     int i, j, k, a, b, c;
 
     //ciclo for
